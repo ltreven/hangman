@@ -95,11 +95,7 @@ document.addEventListener('keydown', event => {
 
     }
 
-    // console.log("secreword: ", hangman.secretWord);
-    // console.log("letters: ", hangman.letters);
-    // console.log("guessed: ", hangman.guessedLetters);
-    // console.log("errorsLeft: ", hangman.errorsLeft);
-
+    // comment added on develop branch
 
   }
 
